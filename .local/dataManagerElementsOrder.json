@@ -1,0 +1,36 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dateTimeString&Sequence_16",
+        "endIndex&Sequence_16",
+        "startIndex&Sequence_16",
+        "body&Sequence_16",
+        "Status&Sequence_2",
+        "Automation&Sequence_2",
+        "clientCode&Sequence_2",
+        "startTime&Sequence_2",
+        "Status_Message&Sequence_2",
+        "From_Id&Sequence_2",
+        "startDate&Sequence_2",
+        "Machine&Sequence_2",
+        "Emails&Flowchart_1",
+        "EmailsDT&Flowchart_1",
+        "Priority&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
